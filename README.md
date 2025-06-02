@@ -43,16 +43,16 @@
 
 ### 미션
 
-| 단계              | Repository                                                                      | PR                                                                       | 키워드                                                  |
-| ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| 💳페이먼츠 1단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 1](https://github.com/woowacourse/react-payments/pull/346)         | Component, Storybook                                    |
-| 💳페이먼츠 2단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 2](https://github.com/woowacourse/react-payments/pull/393)         | Controlled & Uncontrolled Components, Hooks API, Router |
-| 🧩모듈 1단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 1](https://github.com/woowacourse/react-modules/pull/10)           | Module, npm 배포, 컴포넌트, 커스텀 훅                   |
-| 🧩모듈 2단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 2](https://github.com/woowacourse/react-modules/pull/72)           | Refactoring                                             |
-| 🧺장바구니 1단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 1](https://github.com/woowacourse/react-shopping-cart/pull/252)    | Recoil, RTL                                             |
-| 🧺장바구니 2단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 2](https://github.com/woowacourse/react-shopping-cart/pull/305)    | 상태관리, 역할과 책임                                   |
-| 📦상품 목록 1단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 1](https://github.com/woowacourse/react-shopping-products/pull/4)  | 커스텀 훅, Context API, 무한 스크롤                     |
-| 📦상품 목록 2단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 2](https://github.com/woowacourse/react-shopping-products/pull/62) | Tanstack Query, MSW                                     |
+| 단계              | Repository                                                                      | PR                                                                       | 키워드                                                          |
+| ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| 💳페이먼츠 1단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 1](https://github.com/woowacourse/react-payments/pull/346)         | Component, <br>Storybook                                        |
+| 💳페이먼츠 2단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 2](https://github.com/woowacourse/react-payments/pull/393)         | Controlled & Uncontrolled Components, <br>Hooks API, <br>Router |
+| 🧩모듈 1단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 1](https://github.com/woowacourse/react-modules/pull/10)           | Module, <br>npm 배포, <br>컴포넌트, <br>커스텀 훅               |
+| 🧩모듈 2단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 2](https://github.com/woowacourse/react-modules/pull/72)           | Refactoring                                                     |
+| 🧺장바구니 1단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 1](https://github.com/woowacourse/react-shopping-cart/pull/252)    | Recoil, <br>RTL                                                 |
+| 🧺장바구니 2단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 2](https://github.com/woowacourse/react-shopping-cart/pull/305)    | Recoil, <br>RTL                                                 |
+| 📦상품 목록 1단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 1](https://github.com/woowacourse/react-shopping-products/pull/4)  | 커스텀 훅, <br>Context API, <br>무한 스크롤                     |
+| 📦상품 목록 2단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 2](https://github.com/woowacourse/react-shopping-products/pull/62) | Tanstack Query, <br>MSW                                         |
 
 ### 📖 스터디 - 리액트 & CS 스터디
 
@@ -70,8 +70,8 @@
 
 ### 프로젝트 - 코레아
 
-코드 리뷰 매칭 플랫폼 CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신  
-우테코 6, 7기 대상으로 운영, 사용자 수 약 310명
+- 코드 리뷰 매칭 플랫폼 CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신
+- 🔥 우테코 6, 7기 대상으로 운영, 사용자 수 약 310명
 
 [깃허브 바로가기기](https://github.com/woowacourse-teams/2024-corea)  
 [서비스 바로가기기](https://code-review-area.com/)
@@ -105,17 +105,6 @@
 - (문제 정의) 성능 개선 작업이 필요하다면 어떤 영역에서 필요한 지 측정 결과를 분석해 문제를 정의할 수 있다.
 - (문제 해결을 위한 학습) 정의한 문제를 해결하기 위해 시도해볼 수 있는 방법들을 스스로 학습해나갈 수 있는 키워드 수준의 지식을 가지고 있다.
 - (경험치) 스스로 성능 문제를 정의하고, 정의한 문제에 맞는 해결책을 적용해 성능 수치를 개선해본 경험이 있다.
-</details>
-
-<details>
-  <summary>관련 블로그</summary>
-
-- [[우테코] Level4 로딩, 렌더링 성능 개선이란?](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization1/)
-- [[우테코] Level4 1 요청 크기 줄이기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization2/)
-- [[우테코] Level4 2 필요한 것만 요청하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization3/)
-- [[우테코] Level4 3 같은 건 매번 새로 요청하지 않기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization4/)
-- [[우테코] Level4 4 최소한의 변경만 일으키기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization5/)
-
 </details>
 
 |                  미션                  |                         Repository                          |                                                   PR & Reviews                                                    |
@@ -157,6 +146,14 @@
 - 테크 컨퍼런스 영상을 함께 시청하고 토론하는 스터디
 - 활동 기록: [notion 바로가기](https://chysis.notion.site/8febc55335bb47469791fd6d2afe198a)
 
+### 관련 블로그
+
+[[우테코] Level4 로딩, 렌더링 성능 개선이란?](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization1/)
+[[우테코] Level4 1 요청 크기 줄이기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization2/)
+[[우테코] Level4 2 필요한 것만 요청하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization3/)
+[[우테코] Level4 3 같은 건 매번 새로 요청하지 않기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization4/)
+[[우테코] Level4 4 최소한의 변경만 일으키기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization5/)
+
 <br>
 
 ## 레벨 5
@@ -166,7 +163,8 @@
 - 레벨 3, 4에서 진행한 프로젝트를 유지 보수하고 기술적으로 고도화한다.
 - 팀 목표: 운영 후 사용자 피드백을 반영하며 서비스를 점차 안정적으로 개선해 나간다.
 
-**관련 블로그**  
+### 관련 블로그
+
 [[우테코] Level5 onKeyDown 이벤트가 두 번 발생하는 이유](https://chlwlstlf.github.io/woowacourse/woowacourse-level5-isComposing/)  
 [[우테코] Level5 Github OAuth 소유권 이전](https://chlwlstlf.github.io/woowacourse/woowacourse-level5-github-oauth-transfer/)  
 [[우테코] Level5 지역 Suspense & 지역 ErrorBoundary](https://chlwlstlf.github.io/woowacourse/woowacourse-level5-local-suspense/)  
