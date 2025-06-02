@@ -1,10 +1,7 @@
 # woowacourse-archive
 
-우아한테크코스 6기 활동 기록
-
-## 활동 기간
-
-2024.02.13 ~ 2024.11.29
+✨ 우아한테크코스 6기 활동 기록  
+📆 2024.02.13 ~ 2024.11.29
 
 ## 레벨 1
 
@@ -17,16 +14,16 @@
 
 ### 미션
 
-| 단계               | Repository                                                                      | PR                                                                        | Blog                                                                      | 키워드 (Blog 링크)                                                                                                        |
-| ------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 자동차 경주 1단계  | [javascript-racingcar](https://github.com/chlwlstlf/javascript-racingcar)       | [Step 1](https://github.com/woowacourse/javascript-racingcar/pull/254)    | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-2/) | [좋은 코드, 단위 테스트](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-1/)                                 |
-| 자동차 경주 2단계  | [javascript-racingcar](https://github.com/chlwlstlf/javascript-racingcar)       | [Step 2](https://github.com/woowacourse/javascript-racingcar/pull/327)    | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-4/) | [Data Types, Scope, Object, Prototype](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-3/)                   |
-| 로또 1단계         | [javascript-lotto](https://github.com/chlwlstlf/javascript-lotto)               | [Step 1](https://github.com/woowacourse/javascript-lotto/pull/281)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-2/) | [TDD, 객체, 함수](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-1/)                                        |
-| 로또 2단계         | [javascript-lotto](https://github.com/chlwlstlf/javascript-lotto)               | [Step 2](https://github.com/woowacourse/javascript-lotto/pull/313)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-4/) | [DOM, BOM, Event](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-3/)                                        |
-| 점심 뭐 먹지 1단계 | [javascript-lunch](https://github.com/chlwlstlf/javascript-lunch)               | [Step 1](https://github.com/woowacourse/javascript-lunch/pull/128)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-2/) | [컴포넌트, Typescript, E2E 테스트](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-1/)                       |
-| 점심 뭐 먹지 2단계 | [javascript-lunch](https://github.com/chlwlstlf/javascript-lunch)               | [Step 2](https://github.com/woowacourse/javascript-lunch/pull/159)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-4/) | [SPA](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-3/)                                                    |
-| 영화 리뷰 1단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 1](https://github.com/woowacourse/javascript-movie-review/pull/131) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-2/) | [웹의 동작, AJAX&JSON, RESTful API, Promise&async/await](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-1/) |
-| 영화 리뷰 2단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 2](https://github.com/woowacourse/javascript-movie-review/pull/162) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-4/) | [Component, Storybook](https://chlwlstlf.github.io/woowacourse/woowacourse-level2-1/)                                     |
+| 단계                 | Repository                                                                      | PR                                                                        | Blog                                                                      | 키워드 (Blog 링크)                                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 🚗자동차 경주 1단계  | [javascript-racingcar](https://github.com/chlwlstlf/javascript-racingcar)       | [Step 1](https://github.com/woowacourse/javascript-racingcar/pull/254)    | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-2/) | [좋은 코드, <br>단위 테스트](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-1/)                                         |
+| 🚗자동차 경주 2단계  | [javascript-racingcar](https://github.com/chlwlstlf/javascript-racingcar)       | [Step 2](https://github.com/woowacourse/javascript-racingcar/pull/327)    | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-4/) | [Data Types, <br>Scope, <br>Object, <br>Prototype](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-1-3/)                   |
+| 🎫로또 1단계         | [javascript-lotto](https://github.com/chlwlstlf/javascript-lotto)               | [Step 1](https://github.com/woowacourse/javascript-lotto/pull/281)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-2/) | [TDD, <br>객체, <br>함수](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-1/)                                            |
+| 🎫로또 2단계         | [javascript-lotto](https://github.com/chlwlstlf/javascript-lotto)               | [Step 2](https://github.com/woowacourse/javascript-lotto/pull/313)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-4/) | [DOM, <br>BOM, <br>Event](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-2-3/)                                            |
+| 🍴점심 뭐 먹지 1단계 | [javascript-lunch](https://github.com/chlwlstlf/javascript-lunch)               | [Step 1](https://github.com/woowacourse/javascript-lunch/pull/128)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-2/) | [컴포넌트, <br>Typescript, <br>E2E 테스트](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-1/)                           |
+| 🍴점심 뭐 먹지 2단계 | [javascript-lunch](https://github.com/chlwlstlf/javascript-lunch)               | [Step 2](https://github.com/woowacourse/javascript-lunch/pull/159)        | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-4/) | [SPA](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-3-3/)                                                                |
+| 🎥영화 리뷰 1단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 1](https://github.com/woowacourse/javascript-movie-review/pull/131) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-2/) | [웹의 동작, <br>AJAX&JSON, <br>RESTful API, <br>Promise&async/await](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-1/) |
+| 🎥영화 리뷰 2단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 2](https://github.com/woowacourse/javascript-movie-review/pull/162) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-4/) | [Component, <br>Storybook](https://chlwlstlf.github.io/woowacourse/woowacourse-level2-1/)                                             |
 
 ### 📖 스터디 - 나무심기
 
@@ -46,12 +43,16 @@
 
 ### 미션
 
-|    미션     |                                   Repository                                    |                                                                     PR & Reviews                                                                      |
-| :---------: | :-----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 💳페이먼츠  |          [react-payments](https://github.com/chlwlstlf/react-payments)          |        [Step 1](https://github.com/woowacourse/react-payments/pull/346) <br> [Step 2](https://github.com/woowacourse/react-payments/pull/393)         |
-|   🧩모듈    |           [react-modules](https://github.com/chlwlstlf/react-modules)           |          [Step 1](https://github.com/woowacourse/react-modules/pull/10) <br> [Step 2](https://github.com/woowacourse/react-modules/pull/72)           |
-| 🧺장바구니  |     [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)     |   [Step 1](https://github.com/woowacourse/react-shopping-cart/pull/252) <br> [Step 2](https://github.com/woowacourse/react-shopping-cart/pull/305)    |
-| 📦상품 목록 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 1](https://github.com/woowacourse/react-shopping-products/pull/4) <br> [Step 2](https://github.com/woowacourse/react-shopping-products/pull/62) |
+| 단계              | Repository                                                                      | PR                                                                       | 키워드                                                  |
+| ----------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
+| 💳페이먼츠 1단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 1](https://github.com/woowacourse/react-payments/pull/346)         | Component, Storybook                                    |
+| 💳페이먼츠 2단계  | [react-payments](https://github.com/chlwlstlf/react-payments)                   | [Step 2](https://github.com/woowacourse/react-payments/pull/393)         | Controlled & Uncontrolled Components, Hooks API, Router |
+| 🧩모듈 1단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 1](https://github.com/woowacourse/react-modules/pull/10)           | Module, npm 배포, 컴포넌트, 커스텀 훅                   |
+| 🧩모듈 2단계      | [react-modules](https://github.com/chlwlstlf/react-modules)                     | [Step 2](https://github.com/woowacourse/react-modules/pull/72)           | Refactoring                                             |
+| 🧺장바구니 1단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 1](https://github.com/woowacourse/react-shopping-cart/pull/252)    | Recoil, RTL                                             |
+| 🧺장바구니 2단계  | [react-shopping-cart](https://github.com/chlwlstlf/react-shopping-cart)         | [Step 2](https://github.com/woowacourse/react-shopping-cart/pull/305)    | 상태관리, 역할과 책임                                   |
+| 📦상품 목록 1단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 1](https://github.com/woowacourse/react-shopping-products/pull/4)  | 커스텀 훅, Context API, 무한 스크롤                     |
+| 📦상품 목록 2단계 | [react-shopping-products](https://github.com/chlwlstlf/react-shopping-products) | [Step 2](https://github.com/woowacourse/react-shopping-products/pull/62) | Tanstack Query, MSW                                     |
 
 ### 📖 스터디 - 리액트 & CS 스터디
 
@@ -67,14 +68,12 @@
 - 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
 - 서비스를 기획, 구현, 배포해 실 사용자가 사용하도록 개발하는 경험을 한다.
 
-### 프로젝트
-
-**코레아**
+### 프로젝트 - 코레아
 
 코드 리뷰 매칭 플랫폼 CoReA로 완성하는 개발 성장의 퍼즐: 코드, 리뷰, 그리고 당신  
 우테코 6, 7기 대상으로 운영, 사용자 수 약 310명
 
-[깃허브 바로가기기](https://github.com/woowacourse-teams/2024-corea)
+[깃허브 바로가기기](https://github.com/woowacourse-teams/2024-corea)  
 [서비스 바로가기기](https://code-review-area.com/)
 
 **관련 블로그**  
@@ -108,11 +107,6 @@
 - (경험치) 스스로 성능 문제를 정의하고, 정의한 문제에 맞는 해결책을 적용해 성능 수치를 개선해본 경험이 있다.
 </details>
 
-|                  미션                  |                         Repository                          |                                                   PR & Reviews                                                    |
-| :------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
-| 개인 미션 - memegle 프로젝트 성능 개선 | [perf-basecamp](https://github.com/chlwlstlf/perf-basecamp) |                       [개인 미션 PR](https://github.com/woowacourse/perf-basecamp/pull/136)                       |
-|      팀 미션 - 프로젝트 성능 개선      |                                                             | [코레아 성능 개선 리포트](https://github.com/woowacourse/retrospective/discussions/52#discussioncomment-10610839) |
-
 <details>
   <summary>관련 블로그</summary>
 
@@ -123,6 +117,11 @@
 - [[우테코] Level4 4 최소한의 변경만 일으키기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization5/)
 
 </details>
+
+|                  미션                  |                         Repository                          |                                                   PR & Reviews                                                    |
+| :------------------------------------: | :---------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
+| 개인 미션 - memegle 프로젝트 성능 개선 | [perf-basecamp](https://github.com/chlwlstlf/perf-basecamp) |                       [개인 미션 PR](https://github.com/woowacourse/perf-basecamp/pull/136)                       |
+|      팀 미션 - 프로젝트 성능 개선      |                                                             | [코레아 성능 개선 리포트](https://github.com/woowacourse/retrospective/discussions/52#discussioncomment-10610839) |
 
 ### 미션 - 모두를 위한 접근성
 
@@ -180,11 +179,11 @@
 
 ### 유연성 강화 스터디 글쓰기
 
-|  제목  |                                                              본문                                                              |
-| :----: | :----------------------------------------------------------------------------------------------------------------------------: |
-| 레벨 1 |           [레벨 1 글쓰기 - 다양한 의견을 수용하자](https://github.com/chlwlstlf/woowa-writing/blob/level4/level1.md)           |
-| 레벨 2 |            [레벨 2 글쓰기 - 자투리 시간 활용하기](https://github.com/chlwlstlf/woowa-writing/blob/level4/level2.md)            |
-| 레벨 3 | [레벨 3 글쓰기 - 할 일이 남아 있다면 밤을 새워서라도 끝내기](https://github.com/chlwlstlf/woowa-writing/blob/level4/level3.md) |
+|  제목  |                                                                            본문                                                                            |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 레벨 1 |                     [역시 성과보단 성장이지, 다양한 의견을 수용하자](https://github.com/chlwlstlf/woowa-writing/blob/level4/level1.md)                     |
+| 레벨 2 |                                [자투리 시간도 흘러간다.](https://github.com/chlwlstlf/woowa-writing/blob/level4/level2.md)                                 |
+| 레벨 3 | [할 일이 남아 있다면 밤을 새워서라도 끝내기 + 변명하지 말기 + 코드 리뷰에 최선을 다하기](https://github.com/chlwlstlf/woowa-writing/blob/level4/level3.md) |
 
 ### 테크니컬 라이팅
 
