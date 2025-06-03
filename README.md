@@ -76,7 +76,8 @@
 [깃허브 바로가기기](https://github.com/woowacourse-teams/2024-corea)  
 [서비스 바로가기기](https://code-review-area.com/)
 
-**관련 블로그**  
+### 관련 블로그
+
 [[우테코] Level3 React 초기 세팅](https://chlwlstlf.github.io/woowacourse/woowacourse-level3-react-setting/)  
 [[우테코] Level3 AWS로 프론트 서버 배포하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level3-AWS-deploy/)  
 [[우테코] Level3 storybook에 theme, 절대경로, createPortal 적용하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level3-storybook-theme/)  
@@ -148,11 +149,11 @@
 
 ### 관련 블로그
 
-[[우테코] Level4 로딩, 렌더링 성능 개선이란?](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization1/)
-[[우테코] Level4 1 요청 크기 줄이기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization2/)
-[[우테코] Level4 2 필요한 것만 요청하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization3/)
-[[우테코] Level4 3 같은 건 매번 새로 요청하지 않기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization4/)
-[[우테코] Level4 4 최소한의 변경만 일으키기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization5/)
+[[우테코] Level4 로딩, 렌더링 성능 개선이란?](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization1/)  
+[[우테코] Level4 1 요청 크기 줄이기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization2/)  
+[[우테코] Level4 2 필요한 것만 요청하기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization3/)  
+[[우테코] Level4 3 같은 건 매번 새로 요청하지 않기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization4/)  
+[[우테코] Level4 4 최소한의 변경만 일으키기](https://chlwlstlf.github.io/woowacourse/woowacourse-level4-optimization5/)  
 
 <br>
 
