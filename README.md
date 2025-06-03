@@ -128,7 +128,7 @@
 |                미션                |                        Repository                         |                                                    PR & Reviews                                                     |
 | :--------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | 개인 미션 - 컴포넌트 접근성 높이기 | [a11y-airline](https://github.com/chlwlstlf/a11y-airline) |                        [개인 미션 PR](https://github.com/woowacourse/a11y-airline/pull/122)                         |
-|    팀 미션 - 서비스 접근성 개선    |                                                           | [리뷰미 접근성 개선 리포트](https://github.com/woowacourse/retrospective/discussions/53#discussioncomment-11038415) |
+|    팀 미션 - 서비스 접근성 개선    |                                                           | [코레아 접근성 개선 리포트](https://github.com/woowacourse/retrospective/discussions/53#discussioncomment-11038415) |
 
 ### 미션 - 서버 사이드 렌더링(SSR)
 
