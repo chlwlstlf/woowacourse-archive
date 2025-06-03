@@ -25,7 +25,7 @@
 | 🎥영화 리뷰 1단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 1](https://github.com/woowacourse/javascript-movie-review/pull/131) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-2/) | [웹의 동작, <br>AJAX&JSON, <br>RESTful API, <br>Promise&async/await](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-1/) |
 | 🎥영화 리뷰 2단계    | [javascript-movie-review](https://github.com/chlwlstlf/javascript-movie-review) | [Step 2](https://github.com/woowacourse/javascript-movie-review/pull/162) | [블로그](https://chlwlstlf.github.io/woowacourse/woowacourse-level1-4-4/) | [Component, <br>Storybook](https://chlwlstlf.github.io/woowacourse/woowacourse-level2-1/)                                             |
 
-### 📖 스터디 - 나무심기
+### 📖 스터디 - 나무심기 (2024.04 ~ 2024.09)
 
 - 매일 알고리즘 문제를 한 문제씩 풀면서 문제 풀이 습관을 이어나가는 스터디 (레벨1 ~ 레벨3)
 - 활동 기록: [solved.ac 프로필](https://solved.ac/profile/chl378900)
